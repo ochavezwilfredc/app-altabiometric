@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALTA-BIOMETRIC</string>
+    <string name="auth_title">¡Se requiere autenticación!</string>
+    <string name="auth_subtitle">Autenticación importante</string>
+    <string name="auth_description">Autentíquese para poder ver la información de su cuenta</string>
+    <string name="label_account_info">Información de la cuenta</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_email">Correo</string>
+    <string name="label_phone">Télefono</string>
+    <string name="label_save_changes">Guardar cambios</string>
+    <string name="error_msg_no_biometric_hardware">No hay funciones biométricas disponibles en este dispositivo.</string>
+    <string name="error_msg_biometric_hw_unavailable">Las características biométricas no están disponibles actualmente.</string>
+    <string name="error_msg_biometric_not_setup"> El usuario no ha asociado ninguna credencial biométrica a su cuenta.</string>
+    <string name="error_msg_auth_error">Error de autenticación: %1$s</string>
+    <string name="error_msg_auth_failed">Autenticación fallida</string>
+</resources>
